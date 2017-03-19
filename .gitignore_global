@@ -1,0 +1,12 @@
+.DS_Store
+.svn
+.tissues
+*~
+*.swp
+*.rbc
+
+*~
+.DS_Store
+ngam.js.gzip.size
+ngam.js.size
+start
